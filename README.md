@@ -2,38 +2,43 @@
 
 **Bento Corp · Portugal · 23 October 2026**
 
-This public brief contains my personal request, background on my work, and selected correspondence concerning my Google Ads suspension. Supporting records are reproduced as redacted text, with their meaning and limitations explained.
+This is my personal request to the team responsible for Mossad contacts. The accompanying documents explain a Google Ads restriction affecting my ability to promote several professional activities, and the evidence behind my dispute.
 
-- [Case overview and documented timeline](CASE_OVERVIEW.md)
-- [My work and professional goals](PROJECTS.md)
-- [Evidence index and eight supporting documents](evidence/INDEX.md)
+- [Case overview and chronology](CASE_OVERVIEW.md)
+- [My work and priorities](PROJECTS.md)
+- [Evidence index](evidence/INDEX.md)
+- [Plain-text version of this request](FULL_REQUEST.txt)
 
 ## My request
 
-Dear Mossad team,
+Dear Mossad contact team,
 
-My name is Pedro Leal Bento. I am Portuguese, I live in Portugal, and I am building Bento Corp. I am asking for help because Google Ads has imposed a suspension that applies to me as the account owner and to any current or future linked accounts. Google's notice says it is permanent unless the account is reactivated. The consequences reach across the businesses I am trying to build.
+My name is Pedro Leal Bento. I am a Portuguese citizen living in Portugal and the founder of Bento Corp. I am asking for practical help, financial resources and professional connections at a difficult point in building my livelihood.
 
-My main professional focus is digital consulting using AI agents and automation to help businesses. I am also developing games and producing children's animation through Tiny Big Worlds. Access to advertising is a major part of my plan to reach customers and build these ventures. Being unable to use Google Ads puts that plan, and my chance to establish a sustainable business, at serious risk.
+Google Ads has suspended my account under its “Circumventing systems: Cloaking” policy. Its notice explicitly says that the restriction applies to the account owner and any current or future linked accounts, and that I cannot run ads unless the account is reactivated. It has no fixed end date. The consequences therefore reach across the businesses I intend to promote through Google Ads.
 
-I believe the suspension is connected to an old advertisement placed during what I believe was an unauthorised intrusion into my account in 2021, around five years ago. I do not recognise that advertisement as my work. I am asking for the relevant historical records and a meaningful review: the precise cause of the suspension and the link to that suspected intrusion have not yet been established in the records available to me.
+My main priority is digital consulting with AI agents and automation for businesses. I am also developing games, producing children's animation through Tiny Big Worlds, and building other Bento Corp products and services. Losing this route to customers affects much more than the promotion of a single video.
 
-I feel deeply wronged. I have spent nearly 200 hours over two weeks on appeals and documentation instead of building my business. On 20 October, Portugal's regulator, ANACOM, said it considered the evidence sufficient to justify investigation and confirmed that it had forwarded my complaint to Ireland's Digital Services Coordinator. That is an important step, but it has not restored my access to advertising.
+The history behind my dispute matters. An advertisement in the campaign “Display-1” contained Russian-language sexual-supplement material and pointed to an external website unrelated to my work. I did not create or authorise this advertisement. My position is that it resulted from an intrusion into my account in 2021. Original screenshots preserve the advertisement, and Google's own Ask Advisor described unauthorised activity in April 2021 and supplied precise historical timestamps. That is meaningful supporting material, but it is an AI-generated account of events: I have asked Google to confirm it against the original records. The technical method of access and its relationship to the October suspension remain unresolved.
 
-I need practical assistance, financial resources and professional connections to protect the work I have already done and give my ventures a fair chance to succeed. I am reaching out to you in the hope that you can consider my circumstances and help within your remit, or identify people or organisations able to do so.
+There is also a documented sequence in 2026. Google approved an earlier suspension appeal and reactivated the account on 21 September. It then notified me that the Display-1 advertisement was disapproved for a broken destination and content unsuitable for families. I subsequently received a cloaking suspension on 9 October. Despite my requests, the reviewed replies do not identify the particular advertisement, URL, account connection or conduct that caused that suspension. I want a substantive review that distinguishes my authorised work from the advertisement I did not authorise.
 
-I also have reasons to believe that I may have Jewish ancestry, although this remains unverified. I ask whether appropriate resources available to your organisation can help establish that ancestry and whether I may be eligible for Israeli citizenship, or whether you can direct me to the authority responsible. If I qualify, I would like to understand what assistance I may be eligible to receive.
+I have pursued account appeals, security reports, support escalations, community and social-support contacts, formal requests for records, regulatory complaints, dispute resolution and legal assistance. Five account-appeal refusals are documented between 9 and 16 October; separate advertisement appeals were still in progress in the 18 October screenshots. Support described detection as manual on 9 October, but later described suspension as an automated process. I have asked for the actual basis and scope of the reviews. The correspondence does not resolve those questions.
 
-A clarification about your contact form: I am a Portuguese citizen living in Portugal. I selected “Portuguese Timor” only because I could not find Portugal among the available options. That selection does not describe my nationality or residence.
+On 20 October, ANACOM said the evidence was sufficient to justify investigation and confirmed that it had transmitted my complaint to Ireland's Digital Services Coordinator through AGORA. ADR Center's 21 October update said its initial review was still pending. The European Consumer Centre acknowledged receipt, and EFF offered an anonymised referral to cooperating lawyers, which I accepted; no lawyer's acceptance is documented. These are concrete steps, but they have not produced a documented reinstatement.
 
-The documents below show the scope of Google's notice and the steps already taken. I can provide original correspondence and additional relevant information through an appropriate official channel.
+I feel deeply wronged. I estimate that I have spent around 200 hours investigating, documenting and seeking a resolution. That is time I needed to develop my work and find clients. I am asking for help to obtain a fair examination of this case and to keep building my businesses: suitable professional introductions, practical guidance and consideration of financial support or resources. If another organisation is better placed to assist, a referral would be valuable.
 
-Thank you for considering my request.
+Separately, I have reasons to consider Jewish ancestry possible, but it remains unverified. I would appreciate guidance, appropriate resources or a referral to help me investigate that ancestry and have the competent authority assess any possible eligibility for Israeli citizenship and applicable assistance. I do not know whether I qualify.
 
-Pedro Leal Bento  
-Portugal  
-pedro.leal.bento@gmail.com
+I am a Portuguese citizen living in Portugal. I selected ‘Portuguese Timor’ only because I could not find Portugal among the available options.
 
-## About the supporting documents
+The accompanying documents explain the evidence and the steps already taken. I retain the originals and can make relevant records available through an appropriate official channel. Thank you for considering my circumstances and any assistance or referral within your remit.
 
-The documents establish specific communications and procedural steps. They do not constitute a court ruling, establish Jewish ancestry or Israeli citizenship eligibility, or show that any organisation has agreed to provide assistance. Original emails and the underlying private archive are retained by the account holder for verification through an appropriate channel.
+Pedro Leal Bento
+Founder, Bento Corp
+Portugal
+
+## Verification
+
+The [evidence index](evidence/INDEX.md) separates original correspondence, observations from screenshots, my testimony, AI-generated material and unresolved questions. Public excerpts omit account numbers, private case identifiers, personal contact details and access links. The private audit retains source locations and hashes. This dated brief does not establish a legal ruling, ancestry, citizenship eligibility or a commitment of assistance by any organisation.

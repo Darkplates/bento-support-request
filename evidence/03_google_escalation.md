@@ -1,32 +1,9 @@
-# E03 — Google confirms internal escalation
+# E03 — Internal escalation and requests for specifics
 
-Sender: Google Ads support. Date: 9 October 2026, 19:28:33 UTC. Source: original received email, re-read on 23 October.
+**Sources:** sent request of 9 October 2026 at 20:07:48 and Google support reply at 20:28:33 Lisbon time, both checked in the mailbox.
 
-## English summary
+Pedro asks support to identify the particular advertisement, URL or content considered cloaking, confirm whether Display-1 is involved, and review its disputed authorship. This is a documented request, not a later reconstruction of what he wished he had asked.
 
-Support acknowledges the impact on the account holder, says it cannot provide additional suspension details because of restricted access, confirms internal escalation and gives an estimated response time of up to three business days.
+Support replies that security and confidentiality guidelines restrict the details available to its team, and that it cannot provide further suspension information beyond what has already been given. It says the other points have been referred internally and gives an estimated response time of up to three business days. This is an English summary of the Portuguese correspondence.
 
-## Source text
-
-The following is a redacted transcription or identified excerpt. Portuguese is retained as written by the sender; the English summary is unofficial.
-
-```text
-Olá, Pedro!
-
-Compreendo perfeitamente o impacto e a frustração que essa situação gera na
-sua operação.
-
-Por diretrizes de segurança e confidencialidade da plataforma, nossa equipe
-de suporte tem acesso restrito e não pode fornecer detalhes ou dados
-adicionais além dos já informados sobre a suspensão da conta.
-
-Em relação à sua outra dúvida, já fiz o encaminhamento para a nossa equipe
-interna analisar os apontamentos.
-
-Estou acompanhando a tratativa de perto e alinho com você um *prazo de até
-3 dias úteis* para um retorno.
-```
-
-## Scope and omissions
-
-Main-body excerpt. Staff signature, contact identifiers and standard legal footer omitted. The message does not establish the eventual outcome of the internal review.
+The reply establishes an internal referral and an estimated update period. It does not identify the triggering advertisement or guarantee reinstatement. The reviewed correspondence does not establish the eventual outcome of that particular referral.

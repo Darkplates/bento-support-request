@@ -1,24 +1,11 @@
-# E06 — Google security reply
+# E06 — Security replies and their unresolved historical scope
 
-Sender: Google Ads support. Date: 14 October 2026, 21:34:10 Lisbon time. Source: email reproduction at page 52 of the account holder’s CEC documentary archive dated 20 October 2026.
+**Sources:** Google support messages received on 9 October 2026 at 12:28:33 and 14 October at 21:34:10 Lisbon time, checked in the mailbox and retained local email archive.
 
-## English summary
+The 9 October response explicitly describes an automated security analysis and reports no abnormal or unauthorised activity. The 14 October reply is signed by a support representative and says the security team completed an investigation. The relevant passage, translated from Portuguese, is:
 
-The reply says a security investigation found no abnormal activity or unauthorised access “at this time” and concludes the account was not compromised. The excerpt does not identify the historical period or logs examined.
+> After a detailed analysis, no signs of abnormal activity or unauthorised access were identified in your account at this time. Therefore, the team concluded that the account had not been compromised.
 
-## Source text
+Both the temporal wording and the wider conclusion are material. It would be misleading to omit either. The reply does not specify the historical period, access logs, change history or other records examined. It therefore cannot be restated as a confirmation of the 2021 intrusion, nor can it safely be narrowed to an examination of only recent logins.
 
-The following is a redacted transcription or identified excerpt. Portuguese is retained as written by the sender; the English summary is unofficial.
-
-```text
-Olá, Pedro, boa tarde!
-Espero que esteja bem.
-Gostaria de informar que nossa equipe de segurança concluiu a investigação sobre a sua conta do
-Google Ads (ID: [reference withheld]).
-Após uma análise detalhada, não foram identificados sinais de atividade anormal ou acesso não
-autorizado em sua conta neste momento. Portanto, a equipe concluiu que a conta não foi invadida.
-```
-
-## Scope and omissions
-
-Identified excerpt from an existing documentary reproduction. Security recommendations, staff signature, account identifier and footer omitted. This reply cannot be described as Google confirming a 2021 intrusion.
+The unresolved question is how that security conclusion relates to the historical advertisement, Pedro's testimony, and the different account of events in Google's Ask Advisor transcript. [E09](09_historical_advertisement.md)
